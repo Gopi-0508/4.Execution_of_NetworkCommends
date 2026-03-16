@@ -1,10 +1,14 @@
 ## 4.Execution_of_NetworkCommands
+
 ## AIM :Use of Network commands in Real Time environment
 ## Date: 26/02/2026
+
 ## Roll No:212225230084
+
 ## Software : Command Prompt And Network Protocol Analyzer
+
 ## Procedure:
-To do this EXPERIMENT- follows these steps:
+## To do this EXPERIMENT- follows these steps:
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer
 
 All commands related to Network configuration which includes how to switch to privilege mode and normal mode and how to configure router interface and how to save this configuration to flash memory or permanent memory.
@@ -92,6 +96,7 @@ while True:
 conn.close()
 server.close()
 ```
+
 ## Client
 ```
 import socket
@@ -128,26 +133,35 @@ client.close()
 1.Ping
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20211723.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20211753.png)
 
 2.Tracert
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212042.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212111.png)
 
 3.Nslookup
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212222.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212207.png)
 
 4.Netstat
 
 Server
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212329.png)
 
 Client
+![image alt](https://github.com/ganesh232008/4.Execution_of_NetworkCommends/blob/3da5c234b6953818bad887d1cadaf45951147b74/Screenshot%202026-03-15%20212316.png)
+
 
 ## Result
 Thus Execution of Network commands Performed 
